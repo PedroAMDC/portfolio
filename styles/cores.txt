@@ -1,0 +1,39 @@
+
+#000000 - preto
+#F6F6F6 - branco
+#22D4FD - Azul Claro
+272727 - Cinza 
+
+    --cor-primaria: #000000;
+    --cor-secundaria: #F6F6F6;
+    --cor-terciaria: #22D4FD;
+    --cor-hover: #272727;
+
+
+----------------------------------------- Cores do projeto original
+
+#1A120B - Marrom Escuro
+#D5CEA3 - Bege
+#E5E5CB - Bege Claro
+3C2A21 - Marrom escuro
+
+    --cor-primaria: #1A120B;
+    --cor-secundaria: #D5CEA3;
+    --cor-terciaria: #E5E5CB;
+    --cor-hover: #3C2A21;
+
+
+----------------------------------------- Cores tom café
+
+#00005C - Azul escuro
+#C060A1 - Rosa
+#F0CAA3 - Tom de pele
+#3B185F - Roxo
+
+    --cor-primaria: #00005C;
+    --cor-secundaria: #C060A1;
+    --cor-terciaria: #F0CAA3;
+    --cor-hover: #3B185F;
+
+
+----------------------------------------- Cores Night
